@@ -12,4 +12,4 @@ running and cycling activities around your location on a map using the leaflet l
 
 Now anytime you close and reopen the website all your previous cycling and running history would still be available, pinned on the map.
 
-Rendered on:
+Rendered on: `https://mapty-mide.netlify.app/`
